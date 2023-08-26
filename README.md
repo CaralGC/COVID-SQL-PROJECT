@@ -1,4 +1,4 @@
-# Data-Analytics-Projects
+# COVID-SQL-Project
 
 This is my first SQL project, where I analyze COVID data from 2020 to 2021. 
 The data includes information by country, continent, date, number of people infected, deaths, people vaccinated, etc.
